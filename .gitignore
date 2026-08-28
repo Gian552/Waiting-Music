@@ -1,0 +1,33 @@
+# Git
+.git/
+
+# Build output
+bin/
+obj/
+
+# IDEs
+.idea/
+.vs/
+.vscode/
+
+# Visual Studio / Rider
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build / tooling
+*.dll
+*.pdb
+*.cache
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
